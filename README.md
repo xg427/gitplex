@@ -1,5 +1,6 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jmfgdev/gitplex-mit/master/license.txt)
 # jmfgdev/gitplex-mit
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/jmfgdev/gitplex-mit/master/license.txt)
 
 last open source copy of GitPlex for now, licensed with MIT
 
